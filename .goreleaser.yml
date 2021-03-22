@@ -3,7 +3,7 @@ env:
   - GO111MODULE=on
 release:
   github:
-    owner: future-architect
+    owner: tomoyamachi
     name: vuls
 builds:
 - id: vuls
